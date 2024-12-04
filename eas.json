@@ -1,0 +1,19 @@
+{
+  "cli": {},
+  "build": {
+    "client": {
+      "developmentClient": true,
+      "distribution": "internal"
+    }
+  },
+  "submit": {
+    "dev": {
+      "android": {},
+      "ios": {}
+    },
+    "prod": {
+      "android": {},
+      "ios": {}
+    }
+  }
+}
